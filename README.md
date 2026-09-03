@@ -30,54 +30,23 @@ I'm an Embedded Systems Engineer who loves working on systems that positively im
 
 - Setup communication networks (Serial (UART) and Wireless(WiFi 802.11 and nrf24l01)) for reliability and message integrity. Currently deployed for 1+ years with 95% uptime.
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <!-- Row 1 (2x2 Top) -->
-  <tr style="border: none;">
-    <td align="center" valign="middle" width="50%" style="border: none; padding: 12px;">
-      <img 
-        src="https://github.com/user-attachments/assets/26d4d5f7-39e6-4b86-9087-4a1f7ddc1368" 
-        alt="LightMast Deployed"
-        height="360"
-      />
-    </td>
-    <td align="center" valign="middle" width="50%" style="border: none; padding: 12px;">
-      <img 
-        src="https://github.com/user-attachments/assets/6fde3c02-950a-40e0-ba5a-bac2a8a43475" 
-        alt="SecureBox Smart Access"
-        height="360"
-      />
-    </td>
-  </tr>
+<br>
 
-  <!-- Row 2 (2x2 Bottom) -->
-  <tr style="border: none;">
-    <td align="center" valign="middle" width="50%" style="border: none; padding: 12px;">
-      <img 
-        src="https://github.com/user-attachments/assets/ce146905-eca7-45f1-a216-ee45a5b13c06" 
-        alt="Automated Food Vending Kiosk"
-        height="360"
-      />
-    </td>
-    <td align="center" valign="middle" width="50%" style="border: none; padding: 12px;">
-      <img 
-        src="https://github.com/user-attachments/assets/ad332e9a-7df4-4c35-8002-5f4acf8e3ead" 
-        alt="Table Top Kiosk"
-        height="360"
-      />
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5c51535-a39b-4762-bde6-d7ceb553d588" alt="LightMast Deployed" height="180" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/user-attachments/assets/88cd13fe-6b2b-4c7e-8441-20f99d746b35" alt="SecureBox Smart Access" height="180" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/user-attachments/assets/175e3bd9-26a8-4c1c-a080-6c36c2f565a2" alt="Automated Food Vending Kiosk" height="180" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/user-attachments/assets/904e9934-9b1b-428d-98c5-3e88a5a45c4d" alt="Table Top Kiosk" height="180" />
+</p>
 
-  <!-- Row 3 (Featured Wide Banner) -->
-  <tr style="border: none;">
-    <td colspan="2" align="center" valign="middle" width="100%" style="border: none; padding: 16px 12px 12px 12px;">
-      <img 
-        src="https://github.com/user-attachments/assets/1565720f-bd3b-44e0-9fd8-963b277f4eb3" 
-        alt="Vehicle Mount Lightmast"
-        width="800"
-      />
-    </td>
-  </tr>
-</table>
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec3e7037-44af-457f-a08f-beb2c2442901" alt="Vehicle Mount Lightmast" width="400" />
+</p>
 
   
 
