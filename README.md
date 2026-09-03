@@ -33,13 +33,13 @@ I'm an Embedded Systems Engineer who loves working on systems that positively im
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5c51535-a39b-4762-bde6-d7ceb553d588" alt="LightMast Deployed" height="180" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/user-attachments/assets/88cd13fe-6b2b-4c7e-8441-20f99d746b35" alt="SecureBox Smart Access" height="180" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/user-attachments/assets/175e3bd9-26a8-4c1c-a080-6c36c2f565a2" alt="Automated Food Vending Kiosk" height="180" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/user-attachments/assets/904e9934-9b1b-428d-98c5-3e88a5a45c4d" alt="Table Top Kiosk" height="180" />
+  <img src="https://github.com/user-attachments/assets/b5c51535-a39b-4762-bde6-d7ceb553d588" alt="LightMast Deployed" height="165" />
+  &emsp;&emsp;&emsp;
+  <img src="https://github.com/user-attachments/assets/88cd13fe-6b2b-4c7e-8441-20f99d746b35" alt="SecureBox Smart Access" height="165" />
+  &emsp;&emsp;&emsp;
+  <img src="https://github.com/user-attachments/assets/175e3bd9-26a8-4c1c-a080-6c36c2f565a2" alt="Automated Food Vending Kiosk" height="165" />
+  &emsp;&emsp;&emsp;
+  <img src="https://github.com/user-attachments/assets/904e9934-9b1b-428d-98c5-3e88a5a45c4d" alt="Table Top Kiosk" height="165" />
 </p>
 
 <br>
@@ -47,6 +47,7 @@ I'm an Embedded Systems Engineer who loves working on systems that positively im
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ec3e7037-44af-457f-a08f-beb2c2442901" alt="Vehicle Mount Lightmast" width="400" />
 </p>
+
 
   
 
