@@ -1,28 +1,32 @@
-<!--
-# Webfolio -> https://rohanmrao.github.io/
+<p align="left">
+  <img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PlatformIO-F48041?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/FreeRTOS-3274A3?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Embedded Linux" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Wi--Fi_802.11-005B99?style=for-the-badge&logo=wi-fi&logoColor=white" alt="Wi-Fi" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/HTTP%2FREST-026E00?style=for-the-badge&logo=postman&logoColor=white" alt="HTTP" />
+  <img src="https://img.shields.io/badge/UART-4A154B?style=for-the-badge&logo=esphome&logoColor=white" alt="UART" />
+  <img src="https://img.shields.io/badge/SPI-2C3E50?style=for-the-badge&logo=microchip&logoColor=white" alt="SPI" />
+  <img src="https://img.shields.io/badge/I2C-16A085?style=for-the-badge&logo=circuitverse&logoColor=white" alt="I2C" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,matlab,c,ros,tensorflow,nodejs,git,docker,linux,bash,raspberrypi)](https://skillicons.dev)<br><br>
-![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)<br><br>
-![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark&rank_icon=github) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rohanmrao&theme=chartreuse-dark&card_width=370)](https://git.io/streak-stats)
-<!--[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Rohanmrao&layout=donut&show_icons=true&theme=chartreuse-dark)](https://github.com/Rohanmrao/github-readme-stats)-->
-<!--
-<img src="https://github.com/Rohanmrao/Rohanmrao/blob/main/matrix_4.gif" width="1000" height="100" />
+Hi there I'm Shreyas;
 
-# [**Resume**](https://github.com/Rohanmrao/Rohanmrao/blob/main/Resume_word_nov23_spaced_photo.pdf)
-# [**Linkedin**](https://www.linkedin.com/in/rohan-mahesh-rao-0aba62187/)
+I'm an Embedded Systems Engineer who loves working on systems that positively impact the real world. Currently, I lead the Electronics team at a Robotics Startup where we have released 5+ products in the following domains; emergency lighting solutions, automated food kiosk ecosystem, charging station ecosystem and home security. Here are my recent contributions:
 
-<!--
-*Rohanmrao/Rohanmrao* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+- Production firmware for automated vending and food service systems, spanning closed-loop thermal control and automated dispensing applications. Designed complete embedded control flow, integrated HMI, HTTP/REST API's, actuator, sensor and backend systems for reliable autonomous operation.
 
-Here are some ideas to get you started:
+- Dual-core programming for handling network communications and application stack simultaneously.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- State Machine Architechture for multi-actuator systems and Concurrency design for independent tasks to achive parallel-like behaviour.
+
+- Setup communication networks (Serial (UART) and Wireless(WiFi 802.11 and nrf24l01)) for reliability and message integrity. Currently deployed for 1+ years with 95% uptime.
+
