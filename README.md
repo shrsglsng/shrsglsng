@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/I2C-16A085?style=for-the-badge&logo=circuitverse&logoColor=white" alt="I2C" />
 </p>
 
-Hey there I'm Shreyas.
+Hey there, I'm Shreyas.
 
 I'm an Embedded Systems Engineer who loves working on systems that impact the real world. Currently, I lead the Electronics team at a Robotics Startup. We have released 5+ products in the following domains; emergency lighting solutions, automated food kiosk ecosystem, charging station ecosystem and home security. Here are my recent contributions:
 
